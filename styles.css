@@ -43,6 +43,20 @@ a.tbl-biru:hover{
     text-decoration: underline;
 }
 
+a.tbl-pink{
+    background: #FF004D;
+    border-radius: 20px;
+    margin-top:;
+    padding: 15px 20px 15px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a.tbl-pink:hover{
+    background: #3300ff;
+    text-decoration: underline;
+}
 main {
     padding: 20px;
 }
